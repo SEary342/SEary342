@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Sam Eary
 
 Welcome to my GitHub profile! I'm a Senior Infrastructure Engineer with a passion for solving challenging problems and building impactful tools. My journey spans full-stack development, DevOps, infrastructure engineering, and mentorship. Whether it's streamlining CI/CD pipelines, creating intuitive web applications, or diving deep into server administration, I'm all in.
 
