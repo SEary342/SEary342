@@ -37,7 +37,7 @@ Here are a few of my favorite projects:
 ---
 
 ## 🛠️ Major Professional Projects
-### Jenkins Rebuild  
+### Jenkins Linux Rebuild & Deployment Pipeline Refactor
 Transitioned a Windows-based Jenkins environment to Linux, improving reliability and reducing deployment times dramatically.  
 
 ### Aurora Reference Data
