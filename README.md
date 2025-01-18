@@ -25,6 +25,9 @@ Here are a few of my favorite projects:
   A Go-based app with a vanilla HTML/CSS/TypeScript front-end for guest Wi-Fi portals.  
   Built to enhance network access management while learning Go.
 
+- **[music-efx](https://github.com/SEary342/music-efx)**
+  Manage and play sound pre & post event music. Built for event sound engineers.  
+
 - **[SoundEFX](https://github.com/SEary342/SoundEFX)**
   Manage and play sound effects for events. Built for event sound engineers.  
 
