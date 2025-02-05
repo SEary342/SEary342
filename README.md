@@ -14,6 +14,10 @@ Welcome to my GitHub profile! I'm a Senior Infrastructure Engineer with a passio
 
 ---
 
+## ✏️ Languages
+![Language Usage](language_chart.png)
+---
+
 ## 🚀 Open Source Projects
 Here are a few of my favorite projects:  
 
