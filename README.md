@@ -25,12 +25,15 @@ Here are a few of my favorite projects:
   A sleek, in-browser web bookmark app designed for full-screen use.  
   **Tech**: Front-end only, modern web technologies.
 
-- **[UniFi Guest Portal](https://github.com/SEary342/unifi-guest-portal)**
-  A Go-based app with a vanilla HTML/CSS/TypeScript front-end for guest Wi-Fi portals.  
-  Built to enhance network access management while learning Go.
+- **[knit-row-counter](https://github.com/SEary342/knit-row-counter)**
+  An in-browswer row counter with data analytics support
 
 - **[music-efx](https://github.com/SEary342/music-efx)**
   Manage and play sound pre & post event music. Built for event sound engineers.  
+
+- **[UniFi Guest Portal](https://github.com/SEary342/unifi-guest-portal)**
+  A Go-based app with a vanilla HTML/CSS/TypeScript front-end for guest Wi-Fi portals.  
+  Built to enhance network access management while learning Go.
 
 - **[SoundEFX](https://github.com/SEary342/SoundEFX)**
   Manage and play sound effects for events. Built for event sound engineers.  
