@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a Senior Infrastructure Engineer with a passio
 
 ## 🌟 Key Skills
 - **Programming Languages**: Python, Rust, Go, Java, Groovy, Javascript/Typescript, SQL
-- **Front-End**: VueJS, TailwindCSS, TypeScript, HTML/CSS
+- **Front-End**: React, VueJS, TailwindCSS, TypeScript, HTML/CSS
 - **Infrastructure**: Jenkins, OpenShift, RHEL, Linux Administration, Nginx
-- **Data Management**: Collibra, Data Governance, SQL Server
+- **Data Management**: Collibra, Data Governance, SQL Server, PostgreSQL
 - **Certifications**: CPCU, ARe, AIC, API, AIDA, AINS, AIT, Collibra Ranger
 - **Other**: DevOps, Project Management, Mentorship
 
